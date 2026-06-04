@@ -1,0 +1,1 @@
+export function avatarVersion(){return 'v1';}
